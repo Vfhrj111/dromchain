@@ -12,7 +12,7 @@
 
 1.Create pythonanywhere account
 
-2.Add app.py to files
+2.Upload app.py to files
 
 3.Setup flask webapp
 
